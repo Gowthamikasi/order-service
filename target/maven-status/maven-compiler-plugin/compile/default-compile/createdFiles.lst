@@ -1,0 +1,8 @@
+com\shopstack\order\dto\OrderDTO.class
+com\shopstack\order\spec\OrderSpecifications.class
+com\shopstack\order\service\OrderService.class
+com\shopstack\order\web\OrderController.class
+com\shopstack\order\controller\HelloController.class
+com\shopstack\order\domain\Order.class
+com\shopstack\order\repo\OrderRepository.class
+com\shopstack\order\OrderServiceApplication.class
